@@ -4,7 +4,7 @@
 
 I spend half my time conducting research and other half doing engineering. My research interest lies in 💻⎈ **Large Language Models (LLMs)** 🐳 **Text Generation** ☁️ **NLP** 🌈 
 
-* 🧐   Interested in large language models & code generation.
+* 🧐   Interested in large language models & text generation.
 * 💼   I'm an AI Engineer @ [BRICK AI](https://eximgpt.com).
 * 🎓   Master Student @ Toronto Metropolitan University, Toronto, ON
 * 💻   With 1.5+ years' working experience.
