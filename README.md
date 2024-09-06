@@ -8,7 +8,7 @@ I spend half my time conducting research and other half doing engineering. My re
 * 💼   I'm an AI Engineer @ [BRICK AI](https://eximgpt.com).
 * 🎓   Master Student @ Toronto Metropolitan University, Toronto, ON
 * 💻   With 1.5+ years' working experience.
-* ✍🏻   Check out my [Portfolio](https://lehaison-cv.vercel.app/)
+* ✍🏻   Check out my [Portfolio](https://haison.me/)
 
   
 <hr>
